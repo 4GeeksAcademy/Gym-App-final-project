@@ -4,7 +4,7 @@ import style from "../../styles/Navbar.module.css"
 
 export const Navbar = () => {
     return (
-
+        
         <div>
             <nav className={style.navbar}>
                 <div className={style.navbar__container}>
@@ -34,4 +34,4 @@ export const Navbar = () => {
     );
 };
 
-export default Navbar
+export default Navbar;
